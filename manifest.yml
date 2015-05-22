@@ -6,6 +6,6 @@ declared-services:
 applications:
 - services:
   - tradeoff-analytics-service
-  name: nests
+  name: optimal
   path: webApp.war
   memory: 512M
